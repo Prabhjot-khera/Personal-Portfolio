@@ -1,0 +1,53 @@
+
+[
+    {
+      "role": "Software Engineer Intern",
+      "organisation": "ZoRaw Sustenance Inc",
+      "startDate": "Feb, 2024",
+      "endDate": "May, 2024",
+      "experiences": ["Worked on Product Website", "Developed business automations"],
+      "imageSrc": "history/images.png"
+    },
+    {
+      "role": "Microsoft Technology Consultant Intern",
+      "organisation": "CreoSpark",
+      "startDate": "May, 2023",
+      "endDate": "Aug, 2023",
+      "experiences": ["Developed Azure solutions", "Web apps using power platform"],
+      "imageSrc": "history/creospark_logo.jpeg"
+    },
+    {
+      "role": "Software Developer Intern",
+      "organisation": "Paradise Moving Service Inc",
+      "startDate": "Jan, 2022",
+      "endDate": "Aug, 2022",
+      "experiences": [
+        "MERN stack inventory app",
+        "Dashboard development in Google Apps Script"
+      ],
+      "imageSrc": "history/truck.jpg"
+    },
+    {
+        "role": "Robotics Software Developer",
+        "organisation": "University of Waterloo Robotics Team (UWRT)",
+        "startDate": "April, 2024",
+        "endDate": "Present",
+        "experiences": [
+          "Working on Mars Rover",
+          "Using ROS2, C++ and Python"
+        ],
+        "imageSrc": "history/uwrt.jpeg"
+      },
+      {
+        "role": "Co-Founder/President",
+        "organisation": "CStem",
+        "startDate": "May, 2021",
+        "endDate": "Jun, 2022",
+        "experiences": [
+          "STEM organization for informative purposes",
+          "Recruited over 200 high school students"
+        ],
+        "imageSrc": "history/cstem.jpeg"
+      }
+  ]
+  

@@ -1,0 +1,59 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+        "title": "C",
+        "imageSrc": "skills/C.png"
+    },
+    {
+        "title": "C++",
+        "imageSrc": "skills/Cpp.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "skills/JS.png"
+    },
+    {
+        "title": "MATLAB",
+        "imageSrc": "skills/Matlab.png"
+    },
+    {
+        "title": "Power Plat",
+        "imageSrc": "skills/power.png"
+     },
+     {
+        "title": "Python",
+        "imageSrc": "skills/python.png"
+      },
+      {
+        "title": "ROS2",
+        "imageSrc": "skills/ROS.png"
+      },
+      {
+        "title": "TensorFlow",
+        "imageSrc": "skills/Tensorflow.png"
+      },
+      {
+        "title": "VHDL",
+        "imageSrc": "skills/VHDL.png"
+      }
+  ]

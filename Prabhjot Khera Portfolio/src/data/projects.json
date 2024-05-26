@@ -1,0 +1,59 @@
+[
+    {
+      "title": "Diabetes Neural Network",
+      "imageSrc": "projects/diabetes.png",
+      "description": "Built a neural network with supervised learning to predict diabetes from feature vectors with 90% accuracy",
+      "skills": ["Python", "TensorFlow", "NumPy", "Matplotlib", "Pandas", "Google Colab"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Prabhjot-khera/textclassification-neural-net/blob/main/neural_network_Diabetes.ipynb"
+    },
+    {
+      "title": "Workout Tracker",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a full-stack application to track details of workouts for 4+ users.",
+      "skills": ["React", "Express", "Node", "JS", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Prabhjot-khera/Workout-Buddy"
+    },
+    {
+      "title": "Real-Time Operating System",
+      "imageSrc": "projects/RTOS.jpeg",
+      "description": "Embedded a real-time operating system on STM32 using C, focusing on multi-threading and memory management",
+      "skills": ["C", "STM32", "UART"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+        "title": "EV3EAL",
+        "imageSrc": "projects/RTOS.jpeg",
+        "description": "Led a group of 4 to design a robotic device capable of rapidly and accurately distributing playing cards",
+        "skills": ["RobotC", "EV3", "SolidWorks"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/Prabhjot-khera/Robotic-Card-Dealer"
+      },
+      {
+        "title": "KeyChain",
+        "imageSrc": "projects/keychain.png",
+        "description": "Created GD&T orthographic projections and designed a 3D Keychain using SolidWorks",
+        "skills": ["SolidWorks", "GD&T", "Machining"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/Prabhjot-khera/Robotic-Card-Dealer"
+      },
+      {
+        "title": "Full-stack Todo List",
+        "imageSrc": "projects/TODO.png",
+        "description": "Full-stack application to add, edit, delete, and track items",
+        "skills": ["React.js", "Node.js", "Express.js", "MongoDB"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/Prabhjot-khera/ReactappPracticeo-ToDo"
+      },
+      {
+        "title": "Calculator App",
+        "imageSrc": "projects/Calc.jpg",
+        "description": "Calculator app capable of all standard arithmetic with GUI",
+        "skills": ["Python","TKinter"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/Prabhjot-khera/Calculatorapp"
+      }
+      
+  ]
